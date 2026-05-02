@@ -8,16 +8,17 @@ To study the binding interactions and pharmacokinetic properties of selected sma
 - PDB ID: 7SFB
 
 ## 💊 Ligands (to be analyzed)
-- Aspirin  
-- Ibuprofen  
-- Acetaminophen  
-- Naproxen  
-- Diclofenac  
-- Caffeine  
-- Theophylline  
-- Metformin  
-- Artemether  
-- Lumefantrine  
+1. Aspirin
+2. Ibuprofen
+3. Acetaminophen
+4. Naproxen
+5. Diclofenac
+6. Caffeine
+7. Theophylline
+8. Metformin
+9. Artemether
+10. Lumefantrine
+
 
 ## ⚙️ Workflow
 Protein Preparation → Ligand Preparation → Binding Site Prediction → Molecular Docking → Interaction Analysis → ADMET Prediction → Drug-likeness Evaluation
