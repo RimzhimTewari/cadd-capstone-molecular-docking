@@ -1,4 +1,5 @@
-# Molecular Docking and ADMET Analysis Project (CADD Capstone)
+# Computational Drug Discovery: Molecular Docking and ADMET Analysis of 7SFB Protein and Selected Ligands
+This project was completed as part of CADD in-silico laboratory training and further developed as a structured computational analysis of protein–ligand interactions using docking, ADMET prediction, and structural validation approaches.
 
 ## 🧬 Objective
 To study the binding interactions and pharmacokinetic properties of selected small molecules against the protein target (PDB ID: 7SFB) using computational docking and ADMET prediction tools.
