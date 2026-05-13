@@ -36,7 +36,7 @@ This overlap supported the selection of P_0 as the primary docking site for furt
 
 ### Pocket and Co-crystallized Ligand Overlap
 
-![Pocket Overlap](images/pocket_overlap.png)
+![Pocket Overlap](images/binding_site_zoomed.png)
  
 
 
