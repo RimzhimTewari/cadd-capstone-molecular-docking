@@ -8,7 +8,7 @@
 The SARS-CoV-2 main protease (Mpro), also called 3CLpro, is a viral enzyme that helps the virus replicate. It does this by cutting long viral polyproteins into smaller, working proteins that the virus needs to finish its life cycle. Because this enzyme is so important for coronavirus replication, and because there aren’t close human equivalents, it’s often treated as a good target for antiviral drug development.
 
 
-Our work on SARS-CoV-2 Mpro offers a structural starting point for later bioinformatics tasks, like molecular docking and virtual screening, to look for possible inhibitors and find promising ligands.
+The structure of SARS-CoV-2 Mpro also makes it useful for computational approaches like molecular docking and virtual screening, where potential inhibitors and ligand interactions can be explored.
 
 ## Structural Information
 | Parameter |	Details |
@@ -43,9 +43,9 @@ PyMOL was used for visualization and structural inspection of the protein struct
 
 
 ## Justification for Protein Selection
-We used the protein structure with PDB ID 7SFB in a computational drug discovery training workflow that focuses on molecular docking and analyzing protein–ligand interactions. This structure worked well for the task because it has high-resolution crystal data and includes a co-crystallized ligand, which helps when doing docking-based computational studies.
+We used the protein structure with PDB ID 7SFB in a computational drug discovery training workflow that focuses on molecular docking and analyzing protein–ligand interactions. I chose this structure because it has high-resolution crystal data and includes a co-crystallized ligand, which makes it suitable for docking-based computational studies.
 
 
-Since SARS-CoV-2 Mpro is strongly tied to viral replication, it also remains a common and well-studied target in antiviral computational research.docking and protein–ligand interaction analysis. The structure was considered suitable for this study due to its high-resolution crystal data and the presence of a co-crystallized ligand, which supports docking-based computational analysis.
+Since SARS-CoV-2 Mpro is strongly tied to viral replication, it also remains a common and well-studied target in antiviral computational research. docking and protein–ligand interaction analysis. The structure was considered suitable for this study due to its high-resolution crystal data and the presence of a co-crystallized ligand, which supports docking-based computational analysis.
 
 The biological relevance of SARS-CoV-2 main protease (Mpro) in viral replication further makes it a widely studied target in antiviral computational research.
