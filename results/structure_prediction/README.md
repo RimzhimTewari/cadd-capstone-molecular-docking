@@ -30,7 +30,7 @@ The model returned high confidence for most parts of the protein, while a few mo
 
 ## Structural Alignment with Experimental Structure
 
-To see how close the prediction was to the real structure, I aligned the AlphaFold model with the prepared experimental 7SFB structure in PyMOL and checked their overall similarity.
+To see how close the prediction was to the real structure, I aligned the AlphaFold model with the prepared experimental 7SFB structure in PyMOL and checked their overall similarity. The AlphaFold structure is shown in warm pink, and the experimental structure is shown in cyan.
 
 The two structures aligned closely.
 
