@@ -1,12 +1,12 @@
 # Binding site prediction 
 
 ## Tools used 
-I used DoGSiteScorer to identify potential binding pockets in the 7SFB protein structure.
+I used DoGSiteScorer to find possible binding pockets in the 7SFB protein structure.
 
 ---
 
 ## Selected Binding Pocket
-The pocket P_0 was selected for further analysis because it overlapped with the region containing the co-crystallized ligand.
+I chose the pocket P_0 for further analysis because it overlapped with the region containing the co-crystallized ligand.
 
 |Pocket ID | Volume (Å³) | Surface Area (Å²) | Drug Score | Simple Score |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ The pocket P_0 was selected for further analysis because it overlapped with the 
 ## Observations
 I observed that the predicted binding pocket overlapped closely with the co-crystallised ligand region.
 
-Most of the co-crystallized ligand appeared buried within the pocket, while a smaller region remained exposed to the protein surface.
+Most of the co-crystallized ligand appeared buried within the pocket, with only a smaller part still exposed on the protein surface.
 
 The binding cavity appeared moderately deep and suitable for docking-based analysis.
 
@@ -28,6 +28,19 @@ Although there is another predicted binding pocket that showed a slightly higher
 
 This overlap supported the selection of P_0 as the primary docking site for further molecular docking studies.
 
+----
+---
+
+## Binding Site Residues
+
+The following residues were identified around the predicted binding pocket:
+
+THR25, THR26, LEU27, HIS41, VAL42, CYS44, ASP48, MET49, PRO52, TYR54, PHE140, LEU141, ASN142, GLY143, SER144, CYS145, HIS163, HIS164, MET165, GLU166, LEU167, PRO168, HIS172, VAL186, ASP187, ARG188, GLN189, THR190, ALA191 and GLN192.
+
+These residues helped in identifying the active-site region and get a clearer idea of where ligands are most likely to interact during docking.
+
+---
+
 ## Visualization
 
 ### Predicted Binding Pocket
@@ -37,6 +50,17 @@ This overlap supported the selection of P_0 as the primary docking site for furt
 ### Pocket and Co-crystallized Ligand Overlap
 
 ![Pocket Overlap](images/binding_site_zoomed.png)
- 
 
+ ### Binding Site Residues Visualized in PyMOL
+
+![Binding Site Residues](images/binding_site_residues.png)
+
+---
+
+## Validation Approach
+
+I used DoGSiteScorer to predict likely ligand-binding pockets by looking at the shape and geometry of the protein surface.
+
+
+Then I checked the predicted pocket in PyMOL to make sure it overlapped with the co-crystallized ligand region and to spot the key residues around the active-site area.
 
