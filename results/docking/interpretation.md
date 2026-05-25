@@ -57,6 +57,17 @@ Theophylline demonstrated a conventional hydrogen bond interaction with ARG A:18
 
 ## Key Observations
 
-## Limitations
+Several ligands showed favourable interactions within the predicted binding pocket of the 7SFB protein structure. Hydrophobic interactions and hydrogen bonding were commonly observed among the docked complexes. Residues such as MET A:49, MET A:165, HIS A:41 and PRO A:168 appeared repeatedly in multiple ligand interactions, suggesting their possible importance in ligand binding within the selected docking region.
+
+Among the tested compounds, Lumefantrine, Artemether and Naproxen showed comparatively stronger docking scores and multiple stabilising interactions within the binding pocket. In contrast, Metformin showed weaker docking affinity and fewer strong interaction patterns compared to other ligands.
+
+## Limitations 
+This study was based only on molecular docking analysis and interaction prediction using computational tools. The docking scores obtained from PyRx and AutoDock Vina provide only an estimate of possible binding affinity and do not confirm actual biological activity.
+
+The study also did not include molecular dynamics simulation, experimental validation or binding energy calculations beyond docking analysis. Therefore, the results should be interpreted as preliminary computational observations rather than confirmed biological conclusions.
+
 
 ## Conclusion
+The molecular docking study provided preliminary insight into the possible interactions between the selected ligands and the 7SFB protein structure. Several compounds showed favourable docking scores along with hydrogen bonding and hydrophobic interactions within the predicted binding pocket.
+
+Among the selected ligands, Lumefantrine, Naproxen and Artemether demonstrated comparatively stronger docking affinity and interaction patterns in this study. However, further computational and experimental studies would be required to validate these observations and better understand their biological relevance.
