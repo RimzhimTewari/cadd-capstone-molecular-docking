@@ -40,3 +40,5 @@ The docking summary table containing the selected best docking poses and binding
 
 ```text
 docking_summary.csv
+
+raw_results/full_docking_results.csv
