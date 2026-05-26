@@ -7,7 +7,7 @@ I used DoGSiteScorer to find possible binding pockets in the 7SFB protein struct
 
 ## Selected Binding Pocket
 I chose the pocket P_0 for further analysis because it overlapped with the region containing the co-crystallized ligand.
-
+The 7SFB crystal structure contains the co-crystallized inhibitor 90U (ML101) along with additional hetero residues such as PEG and PGE. During binding site analysis, the predicted pocket P_0 showed strong overlap with the region occupied by the co-crystallized ligand, supporting its selection as the primary docking region for further analysis.
 |Pocket ID | Volume (Å³) | Surface Area (Å²) | Drug Score | Simple Score |
 |---|---|---|---|---|
 | **P_0** |  642.94 | 776.96 | **0.75** | 0.44 |
@@ -29,7 +29,7 @@ Although there is another predicted binding pocket that showed a slightly higher
 This overlap supported the selection of P_0 as the primary docking site for further molecular docking studies.
 
 ----
----
+
 
 ## Binding Site Residues
 
@@ -37,7 +37,7 @@ The following residues were identified around the predicted binding pocket:
 
 THR25, THR26, LEU27, HIS41, VAL42, CYS44, ASP48, MET49, PRO52, TYR54, PHE140, LEU141, ASN142, GLY143, SER144, CYS145, HIS163, HIS164, MET165, GLU166, LEU167, PRO168, HIS172, VAL186, ASP187, ARG188, GLN189, THR190, ALA191 and GLN192.
 
-These residues helped in identifying the active-site region and get a clearer idea of where ligands are most likely to interact during docking.
+These residues helped identify the active-site region and provided a clearer understanding of where ligand interactions were most likely to occur during docking analysis.
 
 ---
 
