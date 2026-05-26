@@ -53,6 +53,7 @@ This project was completed as part of a structured virtual research training pro
 | Tool / Database | Purpose |
 |------------------|---------|
 | Protein Data Bank (PDB) | Retrieval of the SARS-CoV-2 Main Protease structure (7SFB) |
+| PyMOL | Visualization of binding site residues and structural inspection of predicted docking regions |
 | UCSF Chimera | Protein visualization, cleaning, and preparation
 | PubChem | Collection of ligand structures and chemical information |
 | PyRx | Molecular docking and ligand preparation |
