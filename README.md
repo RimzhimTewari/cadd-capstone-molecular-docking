@@ -53,8 +53,9 @@ This project was completed as part of a structured virtual research training pro
 | Tool / Database | Purpose |
 |------------------|---------|
 | Protein Data Bank (PDB) | Retrieval of the SARS-CoV-2 Main Protease structure (7SFB) |
+| UCSF Chimera | Protein visualization, cleaning, and preparation
 | PubChem | Collection of ligand structures and chemical information |
-| PyRx | Molecular docking and ligand energy minimization |
+| PyRx | Molecular docking and ligand preparation |
 | Discovery Studio Visualizer | Visualization and analysis of protein–ligand interactions |
 | SwissADME | Drug-likeness screening and physicochemical property evaluation |
 | ADMETlab | ADMET property prediction |
@@ -118,6 +119,109 @@ The identified binding pockets and associated residues were analyzed to support 
 ADMET prediction was carried out to evaluate the absorption, distribution, metabolism, excretion, and toxicity-related properties of the selected therapeutic compounds using ADMETlab.
 
 The analysis provided a preliminary assessment of pharmacokinetic behavior and potential toxicity profiles before molecular docking interpretation. The raw ligand structures were used for ADMET evaluation.
+
+### AlphaFold3 Structure Prediction and Comparison
+
+AlphaFold3 was used to generate a predicted structure of the SARS-CoV-2 Main Protease for comparative structural analysis. The predicted structure was compared with the experimentally resolved 7SFB protein structure obtained from the Protein Data Bank.
+
+Structural alignment and visual comparison were performed to examine similarities and differences between the predicted and experimentally derived protein conformations.
+
+### Molecular Docking
+
+Molecular docking studies were performed using PyRx to investigate potential interactions between the selected therapeutic compounds and the SARS-CoV-2 Main Protease structure (7SFB).
+
+The prepared protein and minimized ligand structures were used for docking analysis. Docking poses and binding affinity scores were examined to identify potential protein–ligand interactions within the predicted binding region of the target protein.
+
+The docking results were further visualized and analyzed using Discovery Studio Visualizer for interaction interpretation and binding pocket analysis.
+
+### Interaction Visualization and Analysis
+
+Protein–ligand interactions obtained from molecular docking were visualized and analyzed using Discovery Studio Visualizer. Both 2D and 3D interaction views were examined to study binding orientations, interaction residues, and non-covalent interactions within the predicted binding pocket.
+
+The interaction analysis was used to support the interpretation of docking poses and binding affinity observations for the selected therapeutic compounds.
+
+---
+
+## Results and Observations
+
+### Drug-Likeness Screening
+
+The selected therapeutic compounds were evaluated for physicochemical properties and oral drug-likeness using SwissADME. Most compounds showed acceptable physicochemical characteristics within commonly used drug-likeness parameters, although variations were observed among molecular weight, lipophilicity, and hydrogen bonding properties.
+
+The screening provided a preliminary assessment of compound suitability before ADMET evaluation and molecular docking analysis.
+
+---
+
+### Binding Site Prediction
+
+Binding site prediction was performed using DoGSiteScorer to identify potential ligand-binding pockets within the SARS-CoV-2 Main Protease structure. Multiple potential binding pockets were identified, and the predicted residues within the selected pocket were examined for docking analysis.
+
+The binding pocket information helped support the selection and interpretation of docking regions used during molecular docking studies.
+
+---
+
+### ADMET Analysis
+
+ADMET analysis was carried out using ADMETlab to evaluate the pharmacokinetic and toxicity-related properties of the selected therapeutic compounds. Variations were observed among the compounds in terms of absorption, metabolism, and predicted toxicity profiles.
+
+The analysis provided an initial computational assessment of drug behavior and helped support the interpretation of docking observations.
+
+---
+
+### AlphaFold3 Structure Comparison
+
+The AlphaFold3-predicted structure of the SARS-CoV-2 Main Protease was compared with the experimentally resolved 7SFB protein structure obtained from the Protein Data Bank. Structural alignment showed overall similarity between the predicted and experimental protein conformations, with some minor structural differences observed in specific regions.
+
+The comparison demonstrated the usefulness of structure prediction approaches for computational structural analysis workflows.
+
+---
+
+### Molecular Docking
+
+Molecular docking studies were performed using PyRx to evaluate potential interactions between the selected therapeutic compounds and the SARS-CoV-2 Main Protease structure. Docking analysis generated multiple binding poses and binding affinity scores for each ligand within the predicted binding pocket.
+
+Differences in docking affinity values and binding orientations were observed among the compounds, indicating variations in their predicted interactions with the target protein.
+
+---
+
+### Interaction Analysis
+
+Protein–ligand interactions were visualized and analyzed using Discovery Studio Visualizer. Both 2D and 3D interaction models were examined to study binding orientations, interacting residues, hydrogen bonding interactions, and hydrophobic contacts within the predicted binding pocket.
+
+The interaction analysis helped support the interpretation of docking poses and provided additional insight into the predicted molecular interactions between the ligands and the target protein.
+
+---
+
+## Limitations
+
+- The study was based entirely on computational prediction methods and did not include experimental validation.
+
+- Molecular docking results represent predicted binding interactions and should not be interpreted as confirmation of biological activity.
+
+- ADMET and drug-likeness analyses were performed using predictive computational models and may differ from real biological behavior.
+
+- The ligand set used in this project was limited to compounds provided as part of the capstone workflow.
+
+- Protein flexibility, molecular dynamics, and long-term conformational behavior were not explored in this study.
+---
+
+## Conclusion
+
+This project demonstrated a complete beginner-level Computer-Aided Drug Design (CADD) workflow using the SARS-CoV-2 Main Protease (7SFB) as the target structure and a selected set of therapeutic compounds for computational analysis.
+
+The study combined protein preparation, binding site prediction, drug-likeness screening, ADMET evaluation, AlphaFold3 structure comparison, molecular docking, and interaction visualization to explore fundamental structure-based drug discovery approaches.
+
+Overall, the project helped develop practical understanding of computational biology workflows, molecular modeling tools, and scientific documentation practices within a reproducible research-oriented framework.
+
+---
+
+## Author
+
+This project was developed as part of a structured Computer-Aided Drug Design (CADD) training program to gain hands-on experience in computational biology workflows, molecular docking, and structure-based drug analysis.
+
+For queries or collaboration:
+- GitHub: https://github.com/RimzhimTewari 
+- Email: rimpersonalacc@gmail.com 
 
 
 
