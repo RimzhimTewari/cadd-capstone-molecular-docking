@@ -1,5 +1,4 @@
 # Limitations
-# Limitations
 
 ## Computational Nature of the Study
 
