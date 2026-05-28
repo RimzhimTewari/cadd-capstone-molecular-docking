@@ -1,5 +1,5 @@
-# Protein Information #
-## Protein Overview ## 
+# Protein Information 
+## Protein Overview 
 **Protein Name:** SARS-CoV-2 Main Protease (Mpro)           
 **PDB ID:** 7SFB
 
@@ -41,6 +41,12 @@ data/protein/prepared/
 
 PyMOL was used for visualization and structural inspection of the protein structure.
 
+
+## Justification for Protein Selection
+
+I used the protein structure with PDB ID 7SFB as part of this computational drug discovery workflow because it contains high-resolution crystal structure data along with a co-crystallized ligand. This made it suitable for binding site analysis and molecular docking studies.
+
+Since SARS-CoV-2 Main Protease (Mpro) plays an important role in viral replication, it is also widely studied in antiviral computational research and structure-based drug discovery workflows.
 
 ## Justification for Protein Selection
 We used the protein structure with PDB ID 7SFB in a computational drug discovery training workflow that focuses on molecular docking and analyzing protein–ligand interactions. I chose this structure because it has high-resolution crystal data and includes a co-crystallized ligand, which makes it suitable for docking-based computational studies.
