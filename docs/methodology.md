@@ -34,7 +34,7 @@ ADMET results and interpretation files were stored under the `results/admet/` di
 
 ## Molecular Docking
 
-Molecular docking analysis will be performed using AutoDock Vina to evaluate predicted binding affinity between ligands and the target protein structure.
+Molecular docking analysis was performed using PyRx to evaluate predicted binding interactions between the ligands and the target protein structure.
 
 Docking scores and interaction outputs will be stored in the `results/docking/` directory.
 
