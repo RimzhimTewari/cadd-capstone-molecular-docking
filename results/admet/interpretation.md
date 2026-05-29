@@ -14,9 +14,9 @@ Some of these ligands might be affected by a protein called P-glycoprotein. Metf
 
 We checked if these ligands can cross the blood-brain barrier. Aspirin, Diclofenac, Caffeine, Theophylline and Lumefantrine can cross it easily. This might be good for drugs that need to affect the brain. It also means they might cause more side effects. Naproxen and Artemether did not cross the barrier easily.
 
-We also checked how much of each ligand gets stuck to proteins in the blood. Ibuprofen, Naproxen, Diclofenac and Lumefantrine got stuck a lot. “When a drug binds strongly to plasma proteins, less free drug is available in circulation. Acetaminophen Caffeine and Theophylline did not get stuck much.
+We also checked how much of each ligand gets stuck to proteins in the blood. Ibuprofen, Naproxen, Diclofenac and Lumefantrine got stuck a lot. When a drug binds strongly to plasma proteins, less free drug is available in circulation. Acetaminophen Caffeine and Theophylline did not get stuck much.
 
-The results also showed how well each ligand can distribute to different tissues in the body. Artemether and Lumefantrine were able to spread. Naproxen did not spread well as the others.
+The results also showed how well each ligand can distribute to different tissues in the body. Artemether and Lumefantrine showed broader predicted tissue distribution compared to some of the other ligands. Naproxen did not spread well as the others.
 
 ---
 
@@ -44,12 +44,12 @@ We checked if these ligands might cause heart problems. Most of them did not see
 
 We also checked if these ligands might cause liver damage. Diclofenac, Ibuprofen, Theophylline, Caffeine, Naproxen and Lumefantrine might cause liver damage. Metformin seemed to be safer for the liver.
 
-Finally we checked if these ligands might cause mutations. Aspirin, Ibuprofen, Naproxen, Diclofenac and Lumefantrine did not seem to cause mutations.. Artemether and Metformin might cause mutations, which is a concern.
+Finally we checked if these ligands might cause mutations. Aspirin, Ibuprofen, Naproxen, Diclofenac and Lumefantrine did not seem to cause mutations. Artemether and Metformin showed higher predicted AMES toxicity values, which may indicate possible mutagenicity concerns, which is a concern.
 
 ---
 
 ## Overall
 
-Some of the selected ligands, like Aspirin, Ibuprofen, Naproxen, Diclofenac, Caffeine and Theophylline seemed to be absorbed. Artemether was good at spreading to parts of the body and was stable when broken down. Metformin had some issues with absorption. Might cause problems when taken with other drugs. Lumefantrine had some concerns, with toxicity like causing heart problems and liver damage.
+Some of the selected ligands, like Aspirin, Ibuprofen, Naproxen, Diclofenac, Caffeine and Theophylline seemed to be absorbed. Artemether was good at spreading to parts of the body and was stable when broken down.Metformin showed some limitations in predicted absorption and may also have a higher possibility of drug–drug interactions. Lumefantrine had some concerns, with toxicity like causing heart problems and liver damage.
 
 The ADMET analysis helped us understand how these ligands behave in the body how they are broken down and what risks they might pose. This information provides preliminary insight into the pharmacokinetic behavior, metabolism, and toxicity risks of the selected ligands before molecular docking and further computational analysis.
