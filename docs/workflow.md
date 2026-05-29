@@ -20,7 +20,7 @@ This project follows a standard computational drug discovery workflow to evaluat
 ### 2. Ligand Collection and Preparation
 
 - Ligand structures collected in `.sdf` format
-- Structures organized and curated for computational analysis
+- Ligand files were organized for computational analysis
 - Ligands prepared before docking
 
 ---
@@ -43,9 +43,9 @@ This project follows a standard computational drug discovery workflow to evaluat
 
 ### 5. Molecular Docking
 
-- Docking analysis performed using AutoDock Vina
+- Docking analysis performed using PyRx
 - Binding affinity scores evaluated in kcal/mol
-- Ligands ranked based on predicted interaction strength
+- Differences in predicted binding affinity were observed among the ligands
 
 ---
 
@@ -53,8 +53,8 @@ This project follows a standard computational drug discovery workflow to evaluat
 
 - Protein–ligand complexes visualized
 - Binding interactions and amino acid contacts analyzed
-- Comparative interpretation performed across ligands
-
+- Interaction patterns were compared across different ligands
+  
 ---
 
 ## Workflow Summary
