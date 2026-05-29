@@ -20,7 +20,7 @@ I first retrieved the protein’s amino acid FASTA sequence and used it as the i
 
 I submitted the FASTA sequence to the AlphaFold Server to generate a structure prediction.
 
-The model returned high confidence for most parts of the protein, while a few more flexible sections showed lower confidence.
+The predicted structure showed good confidence for most regions of the protein. Some flexible loop regions had comparatively lower confidence, which is commonly seen in structure prediction.
 
 ### Predicted Structure
 
@@ -46,4 +46,5 @@ The two structures aligned closely.
 
 ## Conclusion
 
-Doing this comparison helped me get a clearer sense of how predicted protein structures can be lined up with experimentally solved structures as part of a typical computational structural biology workflow.
+This comparison helped me understand how predicted protein structures can be compared with experimentally solved structures during computational analysis workflows.
+
