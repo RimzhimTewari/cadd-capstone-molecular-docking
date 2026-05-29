@@ -17,11 +17,11 @@ These docking results suggest that several ligands may interact reasonably well 
 ## Protein–Ligand Interaction Analysis
 ### Acetaminophen
 
-Acetaminophen showed a typical hydrogen-bond contact with GLN A:189. It also engaged in pi–alkyl contacts with MET A:49 and HIS A:41, a pattern that points to the ligand being held in place more securely within the binding pocket.
+Acetaminophen showed a typical hydrogen-bond contact with GLN A:189. It also engaged in pi–alkyl contacts with MET A:49 and HIS A:41, which may help support ligand binding within the pocket.
 
 ### Artemether
 
-Artemether established a carbon–hydrogen bond with ASP A:187. Alongside that, alkyl contacts involving MET A:49 and MET A:165 appeared, which is consistent with the ligand benefiting from hydrophobic complementarity inside the binding region.
+Artemether established a carbon–hydrogen bond with ASP A:187. Alongside that, alkyl contacts involving MET A:49 and MET A:165 appeared, which is suggesting possible hydrophobic interactions inside the binding region
 
 ### Aspirin
 
@@ -37,7 +37,7 @@ Diclofenac formed conventional hydrogen bonds with LEU A:141 and HIS A:164. A pi
 
 ### Ibuprofen
 
-Ibuprofen exhibited a conventional hydrogen bond with MET A:49. Beyond that, pi–alkyl and alkyl contacts with MET A:165 and PRO A:168 were observed, implying a binding orientation that is likely helped by hydrophobic packing within the pocket.
+Ibuprofen exhibited a conventional hydrogen bond with MET A:49. Beyond that, pi–alkyl and alkyl contacts with MET A:165 and PRO A:168 were observed, implying a binding orientation that is possibly supported by hydrophobic interactions within the pocket.
 
 ### Lumefantrine
 
@@ -49,7 +49,7 @@ Metformin was characterised mainly by Van der Waals contacts with ALA A:191, ARG
 
 ### Naproxen
 
-Naproxen formed a conventional hydrogen bond with MET A:49. It also showed an alkyl contact with PRO A:168 and a pi–alkyl interaction with MET A:165, together with a pi–sigma interaction involving HIS A:41, suggesting a mix of polar anchoring and hydrophobic support in the docking pocket.
+Naproxen formed a conventional hydrogen bond with MET A:49. It also showed an alkyl contact with PRO A:168 and a pi–alkyl interaction with MET A:165, together with a pi–sigma interaction involving HIS A:41, suggesting a mix of both polar and hydrophobic interactions in the docking pocket.
 
 ### Theophylline
 
