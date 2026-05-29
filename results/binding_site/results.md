@@ -17,7 +17,7 @@ The 7SFB crystal structure contains the co-crystallized inhibitor 90U (ML101) al
 ## Observations
 I observed that the predicted binding pocket overlapped closely with the co-crystallised ligand region.
 
-Most of the co-crystallized ligand appeared buried within the pocket, with only a smaller part still exposed on the protein surface.
+Most of the co-crystallized ligand 90U (ML101) appeared buried within the predicted pocket
 
 The binding cavity appeared moderately deep and suitable for docking-based analysis.
 
