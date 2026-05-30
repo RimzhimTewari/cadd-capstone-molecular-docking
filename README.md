@@ -1,4 +1,4 @@
-# Molecular Docking and ADMET Analysis of Selected Therapeutic Compounds Against SARS-CoV-2 Main Protease (7SFB)
+# Molecular Docking and ADMET Analysis of Selected Compounds Against SARS-CoV-2 Main Protease (7SFB)
 
 ## Overview
 
