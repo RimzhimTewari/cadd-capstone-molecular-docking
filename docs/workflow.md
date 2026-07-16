@@ -59,4 +59,4 @@ This project follows a standard computational drug discovery workflow to evaluat
 
 ## Workflow Summary
 
-Protein Preparation → Ligand Preparation → Drug-likeness Screening → ADMET Prediction → Molecular Docking → Interaction Analysis
+Protein Preparation → Ligand Preparation → Drug-likeness Screening → ADMET Prediction → Molecular Docking → Interaction Analysis.
