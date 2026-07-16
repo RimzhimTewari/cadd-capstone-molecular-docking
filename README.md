@@ -242,7 +242,6 @@ Overall, the project helped develop practical understanding of computational bio
 This project was developed as part of a structured Computer-Aided Drug Design (CADD) training program to gain hands-on experience in computational biology workflows, molecular docking, and structure-based drug analysis.
 
 For queries or collaboration:
-- GitHub: https://github.com/RimzhimTewari 
 - Email: rimpersonalacc@gmail.com 
 
 
